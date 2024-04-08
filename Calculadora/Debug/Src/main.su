@@ -1,0 +1,7 @@
+../Inc/stm32lm053xx.h:88:10:number_to_key	16	static
+../Inc/stm32lm053xx.h:104:10:index_to_key	16	static
+../Inc/decoders.h:36:6:actualizar_valores	16	static
+../Inc/decoders.h:67:10:descodificar	16	static
+../Inc/decoders.h:75:6:descodificar_decimal	16	static
+../Src/main.c:5:5:main	128	static
+../Src/main.c:173:6:delay_ms	24	static,ignoring_inline_asm
