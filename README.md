@@ -1,4 +1,5 @@
-# Diseno-electronica-segundo-parcial
+# Calculadora con 6 Displays Dobles de Siete Segmentos y Teclado Matricial
+
 
 Este proyecto es una calculadora implementada usando una placa STM32L053R8, la cual se conecta a displays dobles de siete segmentos y un teclado matricial 4x4. Esta configuración permite realizar operaciones básicas de calculadora de manera eficiente y efectiva
 
